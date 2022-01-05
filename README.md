@@ -1,6 +1,5 @@
 
 <h1 align="center">Hola 👋, soy David</h1>
-<h3 align="center">Actualmente soy estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <!--
 **davidgg00/davidgg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
